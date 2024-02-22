@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	
-	
-	
+	<h3>${message}</h3>
 </body>
 </html>
